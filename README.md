@@ -4,12 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UTM Computer Science Student
 ----------------------------
 
+E-Portfolio:
+https://wonglihong.github.io/
+
 I am currently a student pursuing the Bachelor's Degree in Computer Science (Computer Network and Security) at Universiti Teknologi Malaysia (UTM). I studied UTM Foundation programme as my Pre-University course and graduated from it with a perfect CGPA of 4.00. I am heavily interested in programming and cybersecurity as I love to understand how cyber attacks work and how to defend my country from it.
 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [wonglihong@graduate.utm.my](mailto:wonglihong@graduate.utm.my)
 * 🧠  I'm currently learning C, C++ Programming
-* 💬  Ask me about I am willing to learn anything to improve my cybersecurity knowledge
+* 💬  I am willing to learn anything to improve my cybersecurity knowledge
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
