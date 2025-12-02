@@ -1,6 +1,5 @@
 # 💫 About Me:
-- Computer Science (Computer Networks and Security) Student at UTM<br>- Currently learning C++ and C programming languages<br>- Learning CTF and TryHackMe
-
+I am currently a student pursuing the Bachelor's Degree in Computer Science (Computer Network and Security) at Universiti Teknologi Malaysia (UTM). I studied UTM Foundation programme as my Pre-University course and graduated from it with a perfect CGPA of 4.00. I am heavily interested in programming and cybersecurity as I love to understand how cyber attacks work and how to defend my country from it. I wish to become an experienced Red Teamer one day in the future.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wong-li-hong-846203293) 
